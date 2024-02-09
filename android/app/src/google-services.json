@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962114028874",
+    "project_id": "wemeeet-e783d",
+    "storage_bucket": "wemeeet-e783d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962114028874:android:62ebb9c0bdbcbc3c3c2db3",
+        "android_client_info": {
+          "package_name": "com.example.we_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962114028874-eeph5ckco5uv9ib5qd7f50l3v5mj5kkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.we_meet",
+            "certificate_hash": "476a62a0a45c30204dc90ade9305592736208eaf"
+          }
+        },
+        {
+          "client_id": "962114028874-qnved7olb22ea04pdo8b138vhp0s9s9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvJBILJsFr-CuWr_MiEVQ_BfAVGAh52_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962114028874-qnved7olb22ea04pdo8b138vhp0s9s9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
